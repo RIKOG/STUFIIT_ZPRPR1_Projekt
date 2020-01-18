@@ -1,0 +1,11 @@
+int povodny_text(char *znaky);
+void vypis_znakov_odzadu(char znaky[], int dlzka);
+void vypis_znakov(char znaky[], int dlzka);
+int prepis(char znaky[], char noveznaky[], int dlzka);
+void vypis_znakov_nove(char znaky[], int dlzka);
+void vypis_nebiele_znaky(char znaky[], int dlzka);
+void vypis_biele_znaky(char znaky[], int dlzka);
+void histogram(char znaky[], int dlzka);
+void cezarova_sifra(char znaky[], int dlzka);
+void hviezda();
+void pyramida();
