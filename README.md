@@ -14,3 +14,4 @@ Po zadaní šifry do sifra.txt a po spustení programu a zadaní príkazov viete
 *  ^ - po zadaní tohoto znaku a nejakého čísla vám vykreslí pyramídu o veľkosti zadanej hodnoty 
 
 Richard Gajdošík.
+![alt text](https://github.com/RIKOG/ZPRPR2-Projekt-2/blob/master/Zadanie_projekt_ZPRPR1_1.jpg?raw=true)
